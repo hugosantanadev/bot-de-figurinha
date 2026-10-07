@@ -1,0 +1,22 @@
+2026/10/07-15:43:11.630 1ec4 Reusing MANIFEST D:\Projetos Pessoais\bot-fig\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/07-15:43:11.630 1ec4 Recovering log #151
+2026/10/07-15:43:11.653 1ec4 Reusing old log D:\Projetos Pessoais\bot-fig\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000151.log 
+2026/10/07-15:43:11.653 1ec4 Delete type=2 #143
+2026/10/07-15:43:11.653 1ec4 Delete type=2 #146
+2026/10/07-15:43:11.653 1ec4 Delete type=2 #147
+2026/10/07-15:43:11.653 1ec4 Delete type=2 #148
+2026/10/07-15:43:11.653 1ec4 Delete type=2 #149
+2026/10/07-15:43:11.653 1ec4 Delete type=2 #150
+2026/10/07-15:43:11.653 1ec4 Delete type=2 #153
+2026/10/07-15:43:11.653 1ec4 Delete type=2 #154
+2026/10/07-15:43:11.653 1ec4 Delete type=2 #155
+2026/10/07-15:43:11.653 1ec4 Delete type=2 #156
+2026/10/07-15:43:13.797 2bc8 Level-0 table #166: started
+2026/10/07-15:43:13.816 2bc8 Level-0 table #166: 1592262 bytes OK
+2026/10/07-15:43:13.818 2bc8 Delete type=0 #151
+2026/10/07-15:43:13.980 2bc8 Compacting 1@1 + 7@2 files
+2026/10/07-15:43:14.037 2bc8 Generated table #167@1: 68887 keys, 2247923 bytes
+2026/10/07-15:43:14.083 2bc8 Generated table #168@1: 47030 keys, 2215733 bytes
+2026/10/07-15:43:14.113 2bc8 Generated table #169@1: 42169 keys, 1003028 bytes
+2026/10/07-15:43:14.113 2bc8 Compacted 1@1 + 7@2 files => 5466684 bytes
+2026/10/07-15:43:14.114 2bc8 compacted to: files[ 0 0 3 0 0 0 0 ]
